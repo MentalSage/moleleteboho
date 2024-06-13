@@ -933,10 +933,7 @@ section {
   padding-right: 4px;
   color: aqua;
 }
-.img-fluid{
-  width:70%;
-  height:50%;
-}
+
 .features .tab-pane p:last-child {
   margin-bottom: 0;
 }
@@ -964,7 +961,7 @@ section {
   margin-bottom: 15px;
   font-size: 18px;
 }
-.img-fluid{}
+
 .services .icon-box h4 a {
   color: #365870;
   transition: 0.3s;
@@ -1143,12 +1140,12 @@ section {
 
 .portfolio .portfolio-item .portfolio-info h4 {
   font-size: 18px;
-  color: black;
+  color: #fff;
   font-weight: 600;
 }
 
 .portfolio .portfolio-item .portfolio-info p {
-  color: grey;
+  color: #fff;
   font-size: 14px;
   margin-bottom: 0;
 }
