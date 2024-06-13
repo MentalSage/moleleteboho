@@ -857,7 +857,10 @@ section {
 .features .nav-tabs {
   border: 0;
 }
-
+.row .order-1 img{
+  height:100%;
+  width:100%;
+}
 .features .nav-link {
   border: 1px solid #b5ccdb;
   padding: 15px;
