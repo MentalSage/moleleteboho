@@ -958,7 +958,7 @@ section {
   margin-bottom: 15px;
   font-size: 18px;
 }
-
+.img-fluid{}
 .services .icon-box h4 a {
   color: #365870;
   transition: 0.3s;
