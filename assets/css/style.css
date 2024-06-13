@@ -930,7 +930,10 @@ section {
   padding-right: 4px;
   color: aqua;
 }
-
+.img-fluid{
+  width:70%;
+  height:50%;
+}
 .features .tab-pane p:last-child {
   margin-bottom: 0;
 }
